@@ -1,0 +1,72 @@
+{
+  "name": "cb",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@headlessui/react": "^1.7.17",
+    "@heroicons/react": "^2.0.18",
+    "@material-tailwind/react": "^2.1.2",
+    "@metamask/detect-provider": "^2.0.0",
+    "@metamask/sdk-react": "^0.7.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@yelysei/react-files-drag-and-drop": "^1.0.0",
+    "autoprefixer": "^10.4.15",
+    "axios": "^1.6.7",
+    "axis": "^1.0.0",
+    "chart.js": "^4.4.1",
+    "d3-request": "^1.0.6",
+    "deck.gl": "^8.9.30",
+    "ether": "^0.0.9",
+    "ethers": "^6.7.1",
+    "faker": "^6.6.6",
+    "flowbite": "^1.8.1",
+    "flowbite-react": "^0.6.4",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1",
+    "leaflet": "^1.9.4",
+    "mapbox-gl": "^2.15.0",
+    "maplibre-gl": "^3.3.1",
+    "postcss": "^8.4.29",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-icons": "^4.11.0",
+    "react-leaflet": "^4.2.1",
+    "react-map-gl": "^7.1.6",
+    "react-query": "^3.39.3",
+    "react-router-dom": "^6.16.0",
+    "react-scripts": "^5.0.1",
+    "tailwindcss": "^3.3.3",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.4"
+  }
+}
